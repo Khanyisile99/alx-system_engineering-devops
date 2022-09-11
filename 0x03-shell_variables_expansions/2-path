@@ -1,2 +1,2 @@
-#!/bin/bash
-grep /action PATH
+#!/bin/basn
+PATH=$PATH:/action
